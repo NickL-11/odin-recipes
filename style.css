@@ -1,0 +1,44 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    background: rgb(145, 195, 251)
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+    color: white;
+    text-decoration: underline;
+}
+
+h2 {
+    font-size: 32px;
+}
+h2#recipes {
+    text-align: center;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: auto;
+}
+
+button {
+    border-color: white;
+    font-size:24px;
+    color: black;
+    background-color:antiquewhite;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2.5%;
+}
